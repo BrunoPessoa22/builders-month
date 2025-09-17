@@ -1,0 +1,11 @@
+{
+  "name": "builders-month-presentation",
+  "version": "1.0.0",
+  "description": "Builders Month Competition Presentation",
+  "scripts": {
+    "build": "node generate-pdf.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}
